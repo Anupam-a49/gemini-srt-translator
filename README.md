@@ -293,18 +293,6 @@ gst.gemini_api_key = "your_api_key_here"
 gst.listmodels()
 ```
 
----
-
-## 🎨 Unofficial GUI Applications
-
-If you prefer a user-friendly graphical interface over command-line usage, be sure to check out:
-
-- **[🔗 Gemini SRT Translator GUI](https://github.com/mkaflowski/Gemini-SRT-translator-GUI) (by @mkaflowski)**
-- **[🔗 Gemini SRT Translator GUI](https://github.com/dane-9/gemini-srt-translator-gui) (by @dane-9)**
-
-Perfect for users who want the same powerful translation capabilities with an intuitive visual interface!
-
----
 
 
 Special thanks to all users who have reported issues, suggested features, and helped improve the project.
