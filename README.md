@@ -306,20 +306,5 @@ Perfect for users who want the same powerful translation capabilities with an in
 
 ---
 
-## 📝 License
-
-Distributed under the MIT License. See the [LICENSE](https://github.com/MaKTaiL/gemini-srt-translator?tab=MIT-1-ov-file) file for details.
-
----
-
-## 👥 Contributors
-
-Thank you to all who have contributed to this project:
-
-- [MaKTaiL](https://github.com/MaKTaiL) - Creator and maintainer
-- [CevreMuhendisi](https://github.com/CevreMuhendisi)
-- [angelitto2005](https://github.com/angelitto2005)
-- [sjiampojamarn](https://github.com/sjiampojamarn)
-- [mkaflowski](https://github.com/mkaflowski)
 
 Special thanks to all users who have reported issues, suggested features, and helped improve the project.
